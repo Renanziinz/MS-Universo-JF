@@ -2,4 +2,6 @@
 
 # MANUTENÇÃO DE SOFTWARE
 ## PROF. BRUNO ZONOVELLI
-### 2019.2 - <<**Renan Silva de Araújo**>>
+### 2019.2 - <<**Renan Silva de Araújo
+
+Motivação: Parar de sofrer com a faculdade
